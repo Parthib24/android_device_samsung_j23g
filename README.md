@@ -1,5 +1,5 @@
-# android_device_walton_ef4x
-Device Tree For Walton Primo EF4+/SC7731
+# android_device_samsung_j23g
+Device Tree For SM-J200H/DD-J23G
 
 # Some use full bug fixes
 -if you getting libmnuitwrp.so needed by someting error.
