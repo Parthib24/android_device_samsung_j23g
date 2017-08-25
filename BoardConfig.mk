@@ -72,3 +72,4 @@ BOARD_RECOVERY_NEEDS_FBIOPAN_DISPLAY         := true
 TW_INCLUDE_FB2PNG                            := true
 #TW_TARGET_USES_QCOM_BSP                     := false
 TW_SCREEN_BLANK_ON_BOOT                      := true
+TW_EXCLUDE_SUPERSU                           := true
