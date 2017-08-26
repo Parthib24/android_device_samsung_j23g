@@ -6,6 +6,9 @@ $(call inherit-product, device/common/gps/gps_us_supl.mk)
 # Set local path
 LOCAL_PATH := device/samsung/j23g
 
+# Device configs
+TW_HAS_DOWNLOAD_MODE := true
+
 $(call inherit-product, build/target/product/full.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
